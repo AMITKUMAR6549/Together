@@ -6,6 +6,7 @@ import 'host_screen.dart';
 import 'listener_screen.dart';
 import 'ui_components.dart';
 
+// Main file
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
